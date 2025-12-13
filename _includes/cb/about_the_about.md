@@ -9,16 +9,9 @@
 
 ## About the About Page
 
-We want to make engaging interpretive pages easier to create, so CollectionBuilder gives you tools to write *with* your collection content!
+The Filipiniana is the comprehensive term for traditional Filipino female attire, encompassing forms like the Baro’t Saya, Maria Clara, and Terno. As the Filipiniana continues to evolve, it also develops our national identity. However, documentation of the technical, material, and social histories of Filipiniana sleeves remains fragmented across museum sites and scattered archival photographs.
 
-The template comes with a customizable "About" page layout designed for long form content with rich media embeds.
-Content is written in [Markdown](https://guides.github.com/features/mastering-markdown/) and enhanced using "includes" that pull in collection content, external media, and [Bootstrap](https://getbootstrap.com/) features like cards and modals.
-We hope this makes it easier for site builders to develop the collection AND add interesting and engaging contextual information. 
-
-Each "include" file has several options, which are documented in the files themselves--copy the examples to see how it works with your content! 
-In the demo below, we've given display widths of 25% and 50% to save space, but you can feature the entire image or document.
-
-You can also see a page featuring [a bonanza of feature includes options](https://collectionbuilder.github.io/collectionbuilder-gh/feature_options.html) on our CollectionBuilder-GH demo site. 
+In this regard, SLEEVEvolution aims to address the lack of accessible and interactive visualization regarding the evolution of Filipiniana sleeves. This project utilized direct searching, chaining, and browsing to locate relevant content, followed by rigorous gathering, organizing, and assessing of data. The project also relied on various tools, including data collection, image sourcing, text annotation, and website development via CollectionBuilder and GitHub Pages. It documents sleeve evolution as a focus of material culture, colonial encounter, and contemporary fashion politics. It also aims to preserve technical knowledge, support research and teaching, and broaden public access to the cultural narratives embedded in Filipiniana sleeve traditions.
 
 {% include feature/button.html text="Feature *Includes* Bonanza page" link="https://collectionbuilder.github.io/collectionbuilder-gh/feature_options.html" color="primary" size="lg" centered=true %}
 
